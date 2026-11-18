@@ -1,17 +1,20 @@
 [
-  [
-    "planning-note",
-    "ward-note",
-    "讨论：若早班确认成功，再照护理计划预约。仍等出院医生确认。"
-  ],
-  [
-    "appt-change",
-    "scheduling-desk",
-    "已确认将该次门诊复诊从 6 月 8 日调整至 6 月 10 日。"
-  ],
-  [
-    "discharge-add",
-    "draft-note",
-    "另一份交接草稿只写了“继续按原计划”，暂未签署。"
-  ]
+  {
+    "record_id": "planning-note",
+    "source": "ward-note",
+    "revision": 1,
+    "text": "讨论：若早班确认成功，再照护理计划预约。仍等出院医生确认。"
+  },
+  {
+    "record_id": "appt-change",
+    "source": "scheduling-desk",
+    "revision": 1,
+    "text": "已确认将该次门诊复诊从 6 月 8 日调整至 6 月 10 日。"
+  },
+  {
+    "record_id": "discharge-add",
+    "source": "draft-note",
+    "revision": 1,
+    "text": "另一份交接草稿只写了“继续按原计划”，暂未签署。"
+  }
 ]
