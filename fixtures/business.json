@@ -1,0 +1,27 @@
+{
+  "artifacts": [
+    {
+      "id": "discharge",
+      "kind": "出院沟通",
+      "signed_by": "医师"
+    },
+    {
+      "id": "late-intake",
+      "kind": "入院记录",
+      "signed_by": null
+    },
+    {
+      "id": "appt-change",
+      "kind": "预约回执",
+      "signed_by": "门诊协调员"
+    }
+  ],
+  "sent": [
+    {
+      "id": "sms-21",
+      "subject": "复诊",
+      "text": "6 月 8 日门诊复诊",
+      "from": "discharge"
+    }
+  ]
+}
