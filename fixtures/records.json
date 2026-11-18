@@ -1,0 +1,14 @@
+[
+  {
+    "record_id": "discharge",
+    "source": "signed-discharge",
+    "revision": 1,
+    "text": "出院医嘱：停用药物甲，6 月 8 日门诊复诊。"
+  },
+  {
+    "record_id": "late-intake",
+    "source": "admission-list",
+    "revision": 1,
+    "text": "入院前正在使用药物甲，每日一次。"
+  }
+]
