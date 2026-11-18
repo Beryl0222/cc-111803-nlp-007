@@ -1,0 +1,25 @@
+{
+  "entries": [
+    {
+      "source": "discharge",
+      "kind": "用药交接",
+      "subject": "用药条目A",
+      "documented": "2026-06-04",
+      "text": "医师已签署用药条目A"
+    },
+    {
+      "source": "late-intake",
+      "kind": "用药交接",
+      "subject": "用药条目A",
+      "documented": "2026-06-05",
+      "text": "院前就医记录提及用药条目A"
+    },
+    {
+      "source": "appt-change",
+      "kind": "复诊交接",
+      "subject": "复诊",
+      "documented": "2026-06-06",
+      "text": "6 月 10 日门诊复诊"
+    }
+  ]
+}
